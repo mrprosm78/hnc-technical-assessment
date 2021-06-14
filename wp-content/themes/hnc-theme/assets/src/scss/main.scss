@@ -1,0 +1,28 @@
+
+// abstracts
+@import "abstracts/variables";
+
+// vendors
+@import "node_modules/bootstrap/scss/bootstrap";
+
+// vendors overrides
+// @import "vendors/myvendor";
+
+// base
+@import "base/base";
+
+// layout
+@import "layout/header";
+     //   "layout/footer",
+        //"layout/forms",
+       // "layout/grid";
+
+// components
+@import //"components/buttons",
+       // "components/modal",
+        "components/carousel",
+         "components/signup_email";
+
+// pages
+@import "pages/front-page",
+        "pages/page";

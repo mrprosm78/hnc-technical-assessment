@@ -1,0 +1,18 @@
+
+# VAGRANT
+.vagrant/
+
+# IDE
+/nbproject/
+.idea/*
+
+# Composer
+composer.phar
+
+
+# Project
+.sass-cache
+bower_components/
+node_modules/
+
+_RESSOURCES/

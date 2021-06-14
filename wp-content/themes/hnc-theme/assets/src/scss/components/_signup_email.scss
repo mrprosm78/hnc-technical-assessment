@@ -1,0 +1,18 @@
+.signup_email{
+   
+    width:100%;
+    &>form{
+
+        background: #f8f7f7;
+        padding: 30px;
+        width: 400px;
+        margin: auto;
+    }
+}
+
+#email{
+padding: 7px;
+    border-radius: 4px;
+    border: 1px solid #c7c2c2;
+    display:inline;
+}
